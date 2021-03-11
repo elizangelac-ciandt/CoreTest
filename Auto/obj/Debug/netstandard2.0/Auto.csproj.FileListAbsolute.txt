@@ -2,8 +2,6 @@
 /home/elizangelac/IHM/PoCs/CoreTest/Auto/bin/Debug/netstandard2.0/Auto.dll
 /home/elizangelac/IHM/PoCs/CoreTest/Auto/bin/Debug/netstandard2.0/Auto.pdb
 /home/elizangelac/IHM/PoCs/CoreTest/Auto/obj/Debug/netstandard2.0/Auto.csprojAssemblyReference.cache
-/home/elizangelac/IHM/PoCs/CoreTest/Auto/obj/Debug/netstandard2.0/Auto.AssemblyInfoInputs.cache
-/home/elizangelac/IHM/PoCs/CoreTest/Auto/obj/Debug/netstandard2.0/Auto.AssemblyInfo.cs
 /home/elizangelac/IHM/PoCs/CoreTest/Auto/obj/Debug/netstandard2.0/Auto.csproj.CoreCompileInputs.cache
 /home/elizangelac/IHM/PoCs/CoreTest/Auto/obj/Debug/netstandard2.0/Auto.dll
 /home/elizangelac/IHM/PoCs/CoreTest/Auto/obj/Debug/netstandard2.0/Auto.pdb
