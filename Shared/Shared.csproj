@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Eliz.Teste.Shared</PackageId>
+    <Authors>Eliz</Authors>
+    <Company>Eliz</Company>
+    <Description>Test Lib</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Log</PackageTags>
+    <RespositoryUrl>https://github.com/elizangelac-ciandt/Shared</RespositoryUrl>
+  </PropertyGroup>
+
+</Project>
