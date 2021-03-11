@@ -1,28 +1,21 @@
 ﻿using System;
-//using Shared;
+using Shared;
 
 namespace CoreTest
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Oi, está pronto para a diversão? (S/N)");
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			Console.WriteLine("Oi, está pronto para a diversão? (S/N)");
 
-            var resultado = Console.ReadLine();
+			Console.WriteLine("Qual a sua data de nascimento? (dd/MM/yyyy)");
+            
+			DateTime dataNascimento = new DateTime(1988, 1, 25);
 
-            if(resultado == "S")
-            {
-                Console.WriteLine("Qual a sua data de nascimento? (dd/MM/yyyy)");
-                DateTime dataNascimento = DateTime.Parse(Console.ReadLine());
+			var idade = Pessoa.CalcularIdade(dataNascimento);
 
-                //var idade = Pessoa.CalcularIdade(dataNascimento);
-
-                Console.WriteLine($"Sua idade é: {idade}");
-            }
-            else{
-                Console.WriteLine("Que pena =/");
-            }
-        }
-    }
+			Console.WriteLine($"Sua idade é: {idade}");
+		}
+	}
 }

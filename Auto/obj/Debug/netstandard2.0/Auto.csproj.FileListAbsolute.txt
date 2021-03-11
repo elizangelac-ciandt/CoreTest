@@ -1,7 +1,0 @@
-/home/elizangelac/IHM/PoCs/CoreTest/Auto/bin/Debug/netstandard2.0/Auto.deps.json
-/home/elizangelac/IHM/PoCs/CoreTest/Auto/bin/Debug/netstandard2.0/Auto.dll
-/home/elizangelac/IHM/PoCs/CoreTest/Auto/bin/Debug/netstandard2.0/Auto.pdb
-/home/elizangelac/IHM/PoCs/CoreTest/Auto/obj/Debug/netstandard2.0/Auto.csprojAssemblyReference.cache
-/home/elizangelac/IHM/PoCs/CoreTest/Auto/obj/Debug/netstandard2.0/Auto.csproj.CoreCompileInputs.cache
-/home/elizangelac/IHM/PoCs/CoreTest/Auto/obj/Debug/netstandard2.0/Auto.dll
-/home/elizangelac/IHM/PoCs/CoreTest/Auto/obj/Debug/netstandard2.0/Auto.pdb
