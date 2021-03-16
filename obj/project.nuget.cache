@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "I6dVLdBbT6q6qYu9ajpqcK/UuoENvbuq+Ym5N1d2Zd1V1XTQPT5bfU4G8DnrW6z9aSlc8/+e7gUQxzD1h4Ii6g==",
+  "dgSpecHash": "8hpw5xI+/pFYdFhmueqNo4NY01GznI7UMzOU8viocvncypl2B123zGnrfQURb5SoRY50CKi3vjMQgDRLnihgfQ==",
   "success": true,
   "projectFilePath": "/home/elizangelac/IHM/PoCs/CoreTest/CoreTest.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/elizangelac/.nuget/packages/eliz.teste.sharedingest/1.0.3/eliz.teste.sharedingest.1.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

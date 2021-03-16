@@ -4,8 +4,11 @@
 /home/elizangelac/IHM/PoCs/CoreTest/bin/Debug/netcoreapp3.1/CoreTest.runtimeconfig.dev.json
 /home/elizangelac/IHM/PoCs/CoreTest/bin/Debug/netcoreapp3.1/CoreTest.dll
 /home/elizangelac/IHM/PoCs/CoreTest/bin/Debug/netcoreapp3.1/CoreTest.pdb
+/home/elizangelac/IHM/PoCs/CoreTest/bin/Debug/netcoreapp3.1/SharedIngest.dll
+/home/elizangelac/IHM/PoCs/CoreTest/bin/Debug/netcoreapp3.1/SharedIngest.pdb
 /home/elizangelac/IHM/PoCs/CoreTest/obj/Debug/netcoreapp3.1/CoreTest.csprojAssemblyReference.cache
 /home/elizangelac/IHM/PoCs/CoreTest/obj/Debug/netcoreapp3.1/CoreTest.csproj.CoreCompileInputs.cache
+/home/elizangelac/IHM/PoCs/CoreTest/obj/Debug/netcoreapp3.1/CoreTest.csproj.CopyComplete
 /home/elizangelac/IHM/PoCs/CoreTest/obj/Debug/netcoreapp3.1/CoreTest.dll
 /home/elizangelac/IHM/PoCs/CoreTest/obj/Debug/netcoreapp3.1/CoreTest.pdb
 /home/elizangelac/IHM/PoCs/CoreTest/obj/Debug/netcoreapp3.1/CoreTest.genruntimeconfig.cache

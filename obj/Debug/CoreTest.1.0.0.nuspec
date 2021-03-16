@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CoreTest</id>
+    <version>1.0.0</version>
+    <authors>CoreTest</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Eliz.Teste.SharedIngest" version="1.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/elizangelac/IHM/PoCs/CoreTest/bin/Debug/netcoreapp3.1/CoreTest.runtimeconfig.json" target="lib/netcoreapp3.1/CoreTest.runtimeconfig.json" />
+    <file src="/home/elizangelac/IHM/PoCs/CoreTest/bin/Debug/netcoreapp3.1/CoreTest.dll" target="lib/netcoreapp3.1/CoreTest.dll" />
+  </files>
+</package>

@@ -16,7 +16,10 @@
       },
       "Eliz.Teste.SharedIngest/1.0.3": {
         "runtime": {
-          "SharedIngest.dll": {}
+          "lib/netstandard2.0/SharedIngest.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
         }
       }
     }
@@ -28,9 +31,11 @@
       "sha512": ""
     },
     "Eliz.Teste.SharedIngest/1.0.3": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-M79cvnC1q9isRJa1WEnt8xI6uqD+tRthFebDgXyzijNnc/XzGr6fs/zqV/ACHpWAYFtbQvhopCODDfVbhR9yYg==",
+      "path": "eliz.teste.sharedingest/1.0.3",
+      "hashPath": "eliz.teste.sharedingest.1.0.3.nupkg.sha512"
     }
   }
 }

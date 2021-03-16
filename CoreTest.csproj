@@ -1,9 +1,17 @@
 <Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    </PropertyGroup>
+    
+    <!-- PHYSICAL REFERENCE --> 
+    <ItemGroup Condition="'$(Configuration)'=='DEBUG'">
+        <ProjectReference Include= "..\Shared\SharedIngest.csproj" />
+    </ItemGroup>
 
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-  </PropertyGroup>
-
+    <!-- NUGET REFERENCE --> 
+    <ItemGroup Condition="'$(Configuration)'=='RELEASE'">
+        <PackageReference Include="Eliz.Teste.SharedIngest" Version="1.0.3"/>
+    </ItemGroup>
 </Project>
